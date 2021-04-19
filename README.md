@@ -15,4 +15,6 @@ git config --local user.email "seuemail@exemplo.com"
 
 ° Para iniciar o git: git init
 
-° Para
+° Para adicionar um arquivo: git add nome_arquivo.extensao
+
+° Para verificar as mudanças feitas 
